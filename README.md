@@ -2,7 +2,7 @@ drivers：驱动文件，sources部分项目源代码，tools开发工具。
 
 一、硬件说明
 
-1. 单片机芯片型号是ESP32-C3FN4/FH4    内置4M flash，2.4Ghz WiFi+蓝牙5BLE不支持传统蓝牙(可以同时使用)。LED连接在GPIO8引脚。单片机有两组iIC引脚，OLED显示器在0组SDA=GPIO5,SCL=GPIO6。1组SDA=GPIO9,SCL=GPIO8。
+1. 单片机芯片型号是ESP32-C3FN4/FH4    内置4M flash，2.4Ghz WiFi+蓝牙5BLE不支持传统蓝牙(可以同时使用)。LED连接在GPIO8引脚。单片机有两组iIC引脚，OLED显示器在0组SDA=GPIO5,SCL=GPIO6。1组SDA=GPIO8,SCL=GPIO9
 
 [![引脚图](images/引脚图.png)](https://github.com/karamo/ESP32-C3-mini-with-0.42-OLED?tab=readme-ov-file)
 
